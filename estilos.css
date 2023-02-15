@@ -1,0 +1,47 @@
+body{
+    background-color:darkred;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+}
+
+p{
+    color: blueviolet;
+    /* font-size: 24px; */
+}
+
+div h2{
+    color: aqua;
+}
+
+#parrafo-especial{
+    color: antiquewhite;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.parrafo{
+    color: rgba(144, 252, 22, 0.993);
+    font-size: italic;
+}
+
+a, img{
+    display: block;
+}
+
+a{
+     margin: 50px 20px;
+     text-decoration: none;
+     color: black;
+}
+
+a:hover{
+    color: blue;
+}
+
+img{
+    width: 70%;
+    margin:auto
+}
